@@ -1,0 +1,46 @@
+[27-Nov-2024 16:34:45 UTC] PHP Fatal error:  Uncaught CodeIgniter\Exceptions\ConfigException: Config\App::$baseURL "https:qty.ayconcursos.space/public/" is not a valid URL. in /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php:201
+Stack trace:
+#0 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php(147): CodeIgniter\HTTP\SiteURI->normalizeBaseURL(Object(Config\App))
+#1 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php(102): CodeIgniter\HTTP\SiteURI->determineBaseURL(Object(Config\App), NULL, NULL)
+#2 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURIFactory.php(212): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), '/', NULL)
+#3 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURIFactory.php(42): CodeIgniter\HTTP\SiteURIFactory->createURIFromRoutePath('/')
+#4 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(807): CodeIgniter\HTTP\SiteURIFactory->createFromGlobals()
+#5 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::uri(NULL, false)
+#6 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#7 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(800): CodeIgniter\Config\BaseService::getSharedInstance('uri', NULL)
+#8 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::uri()
+#9 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#10 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(568): CodeIgniter\Config\BaseService::get('uri')
+#11 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::incomingrequest(Object(Config\App), false)
+#12 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(526): CodeIgniter\Config\BaseService::__callStatic('incomingrequest', Array)
+#13 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::request(NULL, false)
+#14 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#15 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(522): CodeIgniter\Config\BaseService::getSharedInstance('request', NULL)
+#16 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::request()
+#17 /home1/ayconcu2/qty.ayconcursos.space/system/Debug/Exceptions.php(129): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#18 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\ConfigException))
+#19 {main}
+  thrown in /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php on line 201
+[27-Nov-2024 16:34:50 UTC] PHP Fatal error:  Uncaught CodeIgniter\Exceptions\ConfigException: Config\App::$baseURL "https:qty.ayconcursos.space/public/" is not a valid URL. in /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php:201
+Stack trace:
+#0 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php(147): CodeIgniter\HTTP\SiteURI->normalizeBaseURL(Object(Config\App))
+#1 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php(102): CodeIgniter\HTTP\SiteURI->determineBaseURL(Object(Config\App), NULL, NULL)
+#2 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURIFactory.php(212): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), '/', NULL)
+#3 /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURIFactory.php(42): CodeIgniter\HTTP\SiteURIFactory->createURIFromRoutePath('/')
+#4 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(807): CodeIgniter\HTTP\SiteURIFactory->createFromGlobals()
+#5 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::uri(NULL, false)
+#6 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#7 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(800): CodeIgniter\Config\BaseService::getSharedInstance('uri', NULL)
+#8 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::uri()
+#9 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('uri', Array)
+#10 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(568): CodeIgniter\Config\BaseService::get('uri')
+#11 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::incomingrequest(Object(Config\App), false)
+#12 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(526): CodeIgniter\Config\BaseService::__callStatic('incomingrequest', Array)
+#13 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::request(NULL, false)
+#14 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#15 /home1/ayconcu2/qty.ayconcursos.space/system/Config/Services.php(522): CodeIgniter\Config\BaseService::getSharedInstance('request', NULL)
+#16 /home1/ayconcu2/qty.ayconcursos.space/system/Config/BaseService.php(311): CodeIgniter\Config\Services::request()
+#17 /home1/ayconcu2/qty.ayconcursos.space/system/Debug/Exceptions.php(129): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#18 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\ConfigException))
+#19 {main}
+  thrown in /home1/ayconcu2/qty.ayconcursos.space/system/HTTP/SiteURI.php on line 201

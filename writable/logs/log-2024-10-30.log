@@ -1,0 +1,888 @@
+INFO - 2024-10-30 20:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:25:50 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:25:50 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-30 20:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:27:44 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:27:44 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:27:51 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:27:51 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:28:48 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:28:48 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:29:55 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:29:55 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:30:19 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:30:20 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:31:58 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:31:58 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:32:26 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:32:26 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:32:43 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:32:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:33:24 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:33:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: forms/miscform]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:35:03 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:35:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:35:09 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:35:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:35:19 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:35:19 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:36:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:36:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:36:50 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:36:50 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: forms/miscform]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:38:35 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:38:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: forms/miscform]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:39:45 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:39:45 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:39:51 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:39:51 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:39:58 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:39:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:43:20 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:43:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:44:19 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:44:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: databases/misc]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` DESC', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(10): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-30 20:44:31 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ayconint_desarrollo'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'ayconint_desarr...', 'jE?)BL7MNUz-', 'ayconint_qualit...', 3306, '', 0)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\quality\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\quality\system\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\quality\system\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\quality\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\quality\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\quality\app\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\quality\system\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+#7 C:\xampp\htdocs\quality\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 C:\xampp\htdocs\quality\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\quality\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\quality\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\quality\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-10-30 20:44:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: forms/miscform]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id`', [], false)
+ 3 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\MiscCont.php(17): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MiscCont->miscform()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-30 20:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-30 20:44:34 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-30 20:44:34 --> mysqli_sql_exception: Unknown database 'ayconint_quality'
+[Method: GET, Route: dashboard/inicio]
+in APPPATH\Views\quality\dashboard\get_defect_data.php on line 12.
+ 1 APPPATH\Views\quality\dashboard\get_defect_data.php(12): mysqli_select_db(Object(mysqli), 'ayconint_quality')
+ 2 APPPATH\Views\quality\dashboard\inicio.php(8): connection()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

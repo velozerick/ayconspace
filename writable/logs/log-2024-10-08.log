@@ -1,0 +1,28 @@
+INFO - 2024-10-08 19:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-08 19:53:16 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-10-08 19:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-08 19:57:08 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\quality\dashboard\encabezado.php on line 73.
+ 1 APPPATH\Views\quality\dashboard\encabezado.php(73): htmlspecialchars(null)
+ 2 APPPATH\Views\quality\dashboard\inicio.php(1): require('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\encabezado.php')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\quality\\app\\Views\\quality\\dashboard\\inicio.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('quality/dashboard/inicio', [], true)
+ 6 APPPATH\Controllers\dashboardCont.php(10): view('quality/dashboard/inicio')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\dashboardCont->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardCont))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

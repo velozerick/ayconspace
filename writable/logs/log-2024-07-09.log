@@ -1,0 +1,39 @@
+CRITICAL - 2024-07-09 04:21:37 --> ParseError: syntax error, unexpected single-quoted string ",", expecting "," or ";"
+[Method: GET, Route: drums]
+in APPPATH/Views/quality/drums.php on line 127.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/drums', [], true)
+ 3 APPPATH/Controllers/DrumsCont.php(13): view('quality/drums', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\DrumsCont->drums()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DrumsCont))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-09 04:57:41 --> Error: Undefined constant "CRA"
+[Method: GET, Route: drums]
+in APPPATH/Views/quality/drums.php on line 179.
+ 1 SYSTEMPATH/View/View.php(234): include()
+ 2 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/drums', [], true)
+ 4 APPPATH/Controllers/DrumsCont.php(13): view('quality/drums', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\DrumsCont->drums()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DrumsCont))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-09 21:45:42 --> ErrorException: Undefined variable $drums
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 235.
+ 1 APPPATH/Views/quality/misc.php(235): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $drums', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 235)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/MiscCont.php(14): view('quality/misc', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

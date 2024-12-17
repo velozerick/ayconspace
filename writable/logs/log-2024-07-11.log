@@ -1,0 +1,294 @@
+CRITICAL - 2024-07-11 03:09:14 --> ParseError: syntax error, unexpected token ";", expecting ")"
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 119.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 3 APPPATH/Controllers/MiscCont.php(14): view('quality/misc', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 03:52:27 --> ErrorException: Undefined array key "serie"
+[Method: POST, Route: add]
+in APPPATH/Controllers/MiscCont.php on line 33.
+ 1 APPPATH/Controllers/MiscCont.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "serie"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php', 33)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->add()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 03:55:50 --> ErrorException: Undefined array key "serie"
+[Method: POST, Route: add]
+in APPPATH/Controllers/MiscCont.php on line 33.
+ 1 APPPATH/Controllers/MiscCont.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "serie"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php', 33)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->add()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 04:18:00 --> ParseError: syntax error, unexpected single-quoted string "OVERLAP", expecting ")"
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 165.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 3 APPPATH/Controllers/MiscCont.php(14): view('quality/misc', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 05:15:50 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 243.
+ 1 APPPATH/Views/quality/paint.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 05:15:55 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: prep]
+in APPPATH/Views/quality/prep.php on line 243.
+ 1 APPPATH/Views/quality/prep.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/prep.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/prep.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/prep', [], true)
+ 5 APPPATH/Controllers/PrepCont.php(14): view('quality/prep', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PrepCont->prep()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrepCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 05:16:02 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: shipping]
+in APPPATH/Views/quality/shipping.php on line 243.
+ 1 APPPATH/Views/quality/shipping.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/shipping', [], true)
+ 5 APPPATH/Controllers/ShippingCont.php(14): view('quality/shipping', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ShippingCont->shipping()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ShippingCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 05:16:55 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 243.
+ 1 APPPATH/Views/quality/paint.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 05:18:17 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: prep]
+in APPPATH/Views/quality/prep.php on line 243.
+ 1 APPPATH/Views/quality/prep.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/prep.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/prep.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/prep', [], true)
+ 5 APPPATH/Controllers/PrepCont.php(14): view('quality/prep', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PrepCont->prep()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrepCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 19:47:43 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 243.
+ 1 APPPATH/Views/quality/paint.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 20:04:49 --> ErrorException: Undefined variable $locations
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 150.
+ 1 APPPATH/Views/quality/assy.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $locations', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 150)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/AssyCont.php(14): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AssyCont->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssyCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 20:52:55 --> ErrorException: Undefined variable $assembly
+[Method: GET, Route: drums]
+in APPPATH/Views/quality/drums.php on line 316.
+ 1 APPPATH/Views/quality/drums.php(316): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assembly', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/drums.php', 316)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/drums.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/drums', [], true)
+ 5 APPPATH/Controllers/DrumsCont.php(13): view('quality/drums', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\DrumsCont->drums()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DrumsCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 21:17:20 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 243.
+ 1 APPPATH/Views/quality/paint.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 21:20:18 --> ErrorException: Undefined variable $assembly
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 316.
+ 1 APPPATH/Views/quality/paint.php(316): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assembly', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 316)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 21:22:03 --> ErrorException: Undefined variable $paints
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 316.
+ 1 APPPATH/Views/quality/paint.php(316): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $paints', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 316)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 21:31:57 --> ErrorException: Undefined array key "Date"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 320.
+ 1 APPPATH/Views/quality/assy.php(320): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Date"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 320)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/AssyCont.php(14): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AssyCont->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AssyCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:10:01 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: paint]
+in APPPATH/Views/quality/paint.php on line 271.
+ 1 APPPATH/Views/quality/paint.php(271): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php', 271)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/paint.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint', [], true)
+ 5 APPPATH/Controllers/PaintCont.php(14): view('quality/paint', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PaintCont->paint()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaintCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:30:23 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: prep]
+in APPPATH/Views/quality/prep.php on line 296.
+ 1 APPPATH/Views/quality/prep.php(296): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/prep.php', 296)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/prep.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/prep', [], true)
+ 5 APPPATH/Controllers/PrepCont.php(14): view('quality/prep', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PrepCont->prep()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrepCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:45:25 --> ErrorException: Undefined array key "number"
+[Method: POST, Route: add]
+in APPPATH/Controllers/MiscCont.php on line 23.
+ 1 APPPATH/Controllers/MiscCont.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "number"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php', 23)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->add()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:46:12 --> ErrorException: Undefined array key "number"
+[Method: POST, Route: add]
+in APPPATH/Controllers/MiscCont.php on line 23.
+ 1 APPPATH/Controllers/MiscCont.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "number"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php', 23)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->add()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:47:19 --> ErrorException: Undefined array key "number"
+[Method: POST, Route: add]
+in APPPATH/Controllers/MiscCont.php on line 23.
+ 1 APPPATH/Controllers/MiscCont.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "number"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php', 23)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->add()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:50:20 --> ErrorException: Undefined array key "qty"
+[Method: POST, Route: addPrep]
+in APPPATH/Controllers/PrepCont.php on line 33.
+ 1 APPPATH/Controllers/PrepCont.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "qty"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/PrepCont.php', 33)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\PrepCont->addPrep()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrepCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 23:54:49 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: shipping]
+in APPPATH/Views/quality/shipping.php on line 243.
+ 1 APPPATH/Views/quality/shipping.php(243): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php', 243)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/shipping', [], true)
+ 5 APPPATH/Controllers/ShippingCont.php(14): view('quality/shipping', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ShippingCont->shipping()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ShippingCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

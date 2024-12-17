@@ -1,0 +1,1272 @@
+WARNING - 2024-07-01 00:07:47 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:47 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:51 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:51 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:51 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:51 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:52 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:52 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:52 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:07:52 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:21:12 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:21:12 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:21:12 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:21:12 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:21:19 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:21:19 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 00:21:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "qualityView/add.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('qualityView/add.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('qualityView/add', [], true)
+ 3 APPPATH/Controllers/Home.php(8): view('qualityView/add')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:23:53 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:23:53 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:23:53 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:23:53 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:14 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:14 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:14 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:14 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:30 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:30 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 00:24:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "quality/start.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quality/start.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/start', [], true)
+ 3 APPPATH/Controllers/Home.php(8): view('quality/start')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:38 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:24:38 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 00:24:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "quality/start.php"
+[Method: GET, Route: /]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quality/start.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/start', [], true)
+ 3 APPPATH/Controllers/Home.php(8): view('quality/start')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:13 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:13 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:13 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:13 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:21 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:21 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:21 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:21 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:26 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:26 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:26 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:25:26 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/crudmiscellaneous/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:26:01 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:26:01 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:26:04 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:26:04 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:26:12 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:26:12 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:29:43 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:29:43 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:32:46 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:32:46 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:32:50 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:32:50 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:32:56 --> [DEPRECATED] Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "get" is deprecated. Use uppercase HTTP method like "GET".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-07-01 00:32:56 --> [DEPRECATED] Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST". in SYSTEMPATH/Router/RouteCollection.php on line 1027.
+ 1 SYSTEMPATH/Router/RouteCollection.php(1027): trigger_error('Passing lowercase HTTP method "post" is deprecated. Use uppercase HTTP method like "POST".', 16384)
+ 2 APPPATH/Config/Routes.php(10): CodeIgniter\Router\RouteCollection->match([...], 'misc_cont/index', 'Misc_cont::index')
+ 3 SYSTEMPATH/Router/RouteCollection.php(340): require('/Applications/MAMP/htdocs/qualitydb/app/Config/Routes.php')
+ 4 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 06:43:18 --> ParseError: syntax error, unexpected token ")"
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 149.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 3 APPPATH/Controllers/Misc_cont.php(9): view('quality/misc')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 06:43:52 --> ParseError: syntax error, unexpected token ")"
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 149.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 3 APPPATH/Controllers/Misc_cont.php(9): view('quality/misc')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 06:50:17 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 10.
+ 1 APPPATH/Views/quality/misc.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 10)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/Misc_cont.php(9): view('quality/misc')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 06:54:14 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 149.
+ 1 APPPATH/Views/quality/misc.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 149)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/Misc_cont.php(9): view('quality/misc')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 06:54:35 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 129.
+ 1 APPPATH/Views/quality/misc.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 129)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/Misc_cont.php(9): view('quality/misc')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 06:55:24 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 129.
+ 1 APPPATH/Views/quality/misc.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 129)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/Misc_cont.php(9): view('quality/misc')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-01 07:08:40 --> mysqli_sql_exception: Table 'quality.quality' doesn't exist in /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php:310
+Stack trace:
+#0 /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/qualitydb/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/qualitydb/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/MAMP/htdocs/qualitydb/app/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+#8 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+#9 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/MAMP/htdocs/qualitydb/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-07-01 07:08:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+[Method: GET, Route: misc]
+in SYSTEMPATH/Database/BaseConnection.php on line 686.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 2 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:08:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 315.
+ 1 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 4 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:08:40 --> [Caused by] mysqli_sql_exception: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 310.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 5 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-01 07:11:58 --> mysqli_sql_exception: Table 'quality.quality' doesn't exist in /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php:310
+Stack trace:
+#0 /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/qualitydb/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/qualitydb/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/MAMP/htdocs/qualitydb/app/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+#8 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+#9 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/MAMP/htdocs/qualitydb/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-07-01 07:11:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+[Method: GET, Route: misc]
+in SYSTEMPATH/Database/BaseConnection.php on line 686.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 2 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:11:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 315.
+ 1 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 4 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:11:58 --> [Caused by] mysqli_sql_exception: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 310.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 5 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-01 07:13:45 --> mysqli_sql_exception: Table 'quality.quality' doesn't exist in /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php:310
+Stack trace:
+#0 /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/qualitydb/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/qualitydb/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/MAMP/htdocs/qualitydb/app/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+#8 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+#9 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/MAMP/htdocs/qualitydb/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-07-01 07:13:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+[Method: GET, Route: misc]
+in SYSTEMPATH/Database/BaseConnection.php on line 686.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 2 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:13:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 315.
+ 1 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 4 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:13:45 --> [Caused by] mysqli_sql_exception: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 310.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 5 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-01 07:14:29 --> mysqli_sql_exception: Table 'quality.quality' doesn't exist in /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php:310
+Stack trace:
+#0 /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/qualitydb/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/qualitydb/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/MAMP/htdocs/qualitydb/app/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+#7 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+#8 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+#9 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/MAMP/htdocs/qualitydb/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-07-01 07:14:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+[Method: GET, Route: misc]
+in SYSTEMPATH/Database/BaseConnection.php on line 686.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 2 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:14:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 315.
+ 1 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 2 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 4 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:14:29 --> [Caused by] mysqli_sql_exception: Table 'quality.quality' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 310.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(310): mysqli->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(732): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 3 SYSTEMPATH/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `quality`
+ORDER BY `id` ASC')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `quality`
+ORDER BY `id` ASC', [], false)
+ 5 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Controllers/Misc_cont.php(11): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 9 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:14:44 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 129.
+ 1 APPPATH/Views/quality/misc.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 129)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/Misc_cont.php(13): view('quality/misc')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 07:16:24 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 129.
+ 1 APPPATH/Views/quality/misc.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php', 129)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 5 APPPATH/Controllers/Misc_cont.php(13): view('quality/misc')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 08:00:43 --> ParseError: syntax error, unexpected token "/"
+[Method: GET, Route: misc]
+in APPPATH/Views/quality/misc.php on line 16.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+ 3 APPPATH/Controllers/Misc_cont.php(14): view('quality/misc', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Misc_cont->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Misc_cont))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 08:21:48 --> ErrorException: Access level to App\Controllers\Misc_cont::$request must be protected (as in class CodeIgniter\Controller) or weaker
+[Method: GET, Route: misc]
+in APPPATH/Controllers/Misc_cont.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-07-01 09:31:48 --> ParseError: Unmatched '}'
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 47.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:14:43 --> ErrorException: include(connection.php): Failed to open stream: No such file or directory
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 APPPATH/Controllers/start.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connection.php): Failed to open stream: No such file or directory', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php', 19)
+ 2 APPPATH/Controllers/start.php(19): include()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 7 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 8 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:17:02 --> ErrorException: include(connection.php): Failed to open stream: No such file or directory
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 APPPATH/Controllers/start.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connection.php): Failed to open stream: No such file or directory', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php', 19)
+ 2 APPPATH/Controllers/start.php(19): include()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 7 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 8 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:18:02 --> ErrorException: include(connection.php): Failed to open stream: No such file or directory
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 APPPATH/Controllers/start.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connection.php): Failed to open stream: No such file or directory', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php', 19)
+ 2 APPPATH/Controllers/start.php(19): include()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 7 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 8 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:20:18 --> ErrorException: include(connection.php): Failed to open stream: No such file or directory
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 APPPATH/Controllers/start.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connection.php): Failed to open stream: No such file or directory', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php', 19)
+ 2 APPPATH/Controllers/start.php(19): include()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 7 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 8 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:20:46 --> Error: Call to undefined function App\Controllers\connection()
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 5 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 6 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:33:27 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:33:52 --> ParseError: Unmatched '}'
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 46.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 18:58:31 --> ParseError: Unmatched '}'
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 43.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 19:34:59 --> ParseError: Unmatched '}'
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 19.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 20:44:34 --> ParseError: syntax error, unexpected variable "$routes"
+[Method: GET, Route: misc]
+in APPPATH/Config/Routes.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 20:55:50 --> ParseError: syntax error, unexpected token "}", expecting ";"
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 16.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 21:05:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "quality/paint2.php"
+[Method: GET, Route: paint2]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quality/paint2.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/paint2', [], true)
+ 3 APPPATH/Controllers/start.php(54): view('quality/paint2', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->paint2()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 21:08:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "quality/shipping.php"
+[Method: GET, Route: shipping]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('quality/shipping.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/shipping', [], true)
+ 3 APPPATH/Controllers/start.php(62): view('quality/shipping', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->shipping()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 21:34:38 --> ParseError: syntax error, unexpected identifier "start", expecting ")"
+[Method: GET, Route: misc]
+in APPPATH/Config/Routes.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 22:25:51 --> ParseError: syntax error, unexpected token "/"
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 86.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 22:26:56 --> ParseError: syntax error, unexpected token "/"
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 86.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 23:12:26 --> ParseError: syntax error, unexpected end of file, expecting variable or "{" or "$"
+[Method: GET, Route: misc]
+in APPPATH/Config/Routes.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 23:21:24 --> ParseError: syntax error, unexpected token ","
+[Method: GET, Route: misc]
+in APPPATH/Config/Routes.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 23:25:11 --> ParseError: syntax error, unexpected token ","
+[Method: GET, Route: misc]
+in APPPATH/Config/Routes.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 23:29:23 --> ErrorException: Undefined array key 7
+[Method: GET, Route: misc]
+in SYSTEMPATH/HTTP/URI.php on line 374.
+ 1 SYSTEMPATH/HTTP/URI.php(374): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 7', '/Applications/MAMP/htdocs/qualitydb/system/HTTP/URI.php', 374)
+ 2 SYSTEMPATH/HTTP/URI.php(638): CodeIgniter\HTTP\URI->getAuthority()
+ 3 SYSTEMPATH/HTTP/SiteURI.php(113): CodeIgniter\HTTP\URI->__toString()
+ 4 SYSTEMPATH/HTTP/SiteURI.php(388): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), 'delete', 'localhost', '7')
+ 5 SYSTEMPATH/Helpers/url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl('delete', '7')
+ 6 APPPATH/Views/quality/misc.php(166): base_url('delete', '7')
+ 7 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 8 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 9 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+10 APPPATH/Controllers/start.php(14): view('quality/misc', [...])
+11 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->misc()
+12 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-01 23:34:22 --> ErrorException: Undefined array key 7
+[Method: GET, Route: misc]
+in SYSTEMPATH/HTTP/URI.php on line 374.
+ 1 SYSTEMPATH/HTTP/URI.php(374): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 7', '/Applications/MAMP/htdocs/qualitydb/system/HTTP/URI.php', 374)
+ 2 SYSTEMPATH/HTTP/URI.php(638): CodeIgniter\HTTP\URI->getAuthority()
+ 3 SYSTEMPATH/HTTP/SiteURI.php(113): CodeIgniter\HTTP\URI->__toString()
+ 4 SYSTEMPATH/HTTP/SiteURI.php(388): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), 'delete', 'localhost', '7')
+ 5 SYSTEMPATH/Helpers/url_helper.php(59): CodeIgniter\HTTP\SiteURI->baseUrl('delete', '7')
+ 6 APPPATH/Views/quality/misc.php(166): base_url('delete', '7')
+ 7 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/misc.php')
+ 8 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 9 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/misc', [], true)
+10 APPPATH/Controllers/start.php(14): view('quality/misc', [...])
+11 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->misc()
+12 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

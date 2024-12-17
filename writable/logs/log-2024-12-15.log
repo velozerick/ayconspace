@@ -1,0 +1,43 @@
+INFO - 2024-12-15 06:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-12-15 06:24:43 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/quality/databases/encabezado.php on line 81.
+ 1 APPPATH/Views/quality/databases/encabezado.php(81): htmlspecialchars(null)
+ 2 APPPATH/Views/quality/databases/home.php(1): require('/home1/ayconcu2/qty.ayconcursos.space/app/Views/quality/databases/encabezado.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home1/ayconcu2/qty.ayconcursos.space/app/Views/quality/databases/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/databases/home', [], true)
+ 6 APPPATH/Controllers/Home.php(8): view('quality/databases/home')
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-12-15 14:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-15 16:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-12-15 16:59:08 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/quality/databases/encabezado.php on line 81.
+ 1 APPPATH/Views/quality/databases/encabezado.php(81): htmlspecialchars(null)
+ 2 APPPATH/Views/quality/databases/home.php(1): require('/home1/ayconcu2/qty.ayconcursos.space/app/Views/quality/databases/encabezado.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home1/ayconcu2/qty.ayconcursos.space/app/Views/quality/databases/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/databases/home', [], true)
+ 6 APPPATH/Controllers/Home.php(8): view('quality/databases/home')
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-12-15 20:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-12-15 20:46:58 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/quality/databases/encabezado.php on line 81.
+ 1 APPPATH/Views/quality/databases/encabezado.php(81): htmlspecialchars(null)
+ 2 APPPATH/Views/quality/databases/home.php(1): require('/home1/ayconcu2/qty.ayconcursos.space/app/Views/quality/databases/encabezado.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/home1/ayconcu2/qty.ayconcursos.space/app/Views/quality/databases/home.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/databases/home', [], true)
+ 6 APPPATH/Controllers/Home.php(8): view('quality/databases/home')
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

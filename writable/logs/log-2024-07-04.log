@@ -1,0 +1,1033 @@
+CRITICAL - 2024-07-04 06:20:58 --> ErrorException: Undefined variable $miscellaneous
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 164.
+ 1 APPPATH/Views/quality/assy.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miscellaneous', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 164)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 06:22:16 --> ErrorException: Undefined variable $assembly
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 154.
+ 1 APPPATH/Views/quality/assy.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assembly', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 154)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 06:24:08 --> ErrorException: Undefined variable $assembly
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 154.
+ 1 APPPATH/Views/quality/assy.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assembly', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 154)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 06:48:59 --> ErrorException: Undefined variable $misc
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $misc', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 06:49:43 --> ErrorException: Undefined variable $misc
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $misc', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 06:54:50 --> ParseError: syntax error, unexpected single-quoted string "serie", expecting "]"
+[Method: GET, Route: assy]
+in APPPATH/Controllers/start.php on line 114.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/start.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\start')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\start')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\start', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:11:15 --> ParseError: syntax error, unexpected token "<", expecting ")"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 97.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 3 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:13:23 --> ParseError: syntax error, unexpected token "<", expecting ")"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 128.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 3 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:13:37 --> ErrorException: Undefined variable $typeDrum
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 147.
+ 1 APPPATH/Views/quality/assy.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeDrum', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 147)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:13:47 --> ErrorException: Undefined variable $typeDrum
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 147.
+ 1 APPPATH/Views/quality/assy.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeDrum', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 147)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:14:50 --> ErrorException: Undefined variable $typeDrums
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 175.
+ 1 APPPATH/Views/quality/assy.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $typeDrums', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 175)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:35:28 --> ParseError: syntax error, unexpected single-quoted string "DAMAGED ANGLE", expecting ")"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 101.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 3 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:52:28 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+[Method: GET, Route: assy]
+in APPPATH/Models/Quality.php on line 14.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Models/Quality.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Quality')
+ 3 APPPATH/Controllers/start.php(28): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Quality')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:54:29 --> ParseError: syntax error, unexpected token "]"
+[Method: GET, Route: assy]
+in APPPATH/Models/Quality.php on line 13.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Models/Quality.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Quality')
+ 3 APPPATH/Controllers/start.php(28): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Quality')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:57:15 --> ErrorException: Undefined array key "date_start"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 214.
+ 1 APPPATH/Views/quality/assy.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_start"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 214)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:57:51 --> ErrorException: Undefined array key "date_start"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 214.
+ 1 APPPATH/Views/quality/assy.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_start"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 214)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 07:59:52 --> ErrorException: Undefined array key "date_start"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 214.
+ 1 APPPATH/Views/quality/assy.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_start"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 214)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:04:50 --> ErrorException: Undefined array key "date_start"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_start"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:07:01 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:08:30 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:09:03 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:10:47 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:15:05 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:16:49 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:17:09 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:17:19 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:18:11 --> ErrorException: Undefined array key "typekit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "typekit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:18:18 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:20:24 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:20:34 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:20:51 --> ErrorException: Undefined variable $assemblyassy
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assemblyassy', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:21:03 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:22:01 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:23:34 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:25:38 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:25:52 --> ErrorException: Undefined array key "description"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 219.
+ 1 APPPATH/Views/quality/assy.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "description"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 219)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:26:22 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:26:31 --> ErrorException: Undefined array key "description"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "description"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:26:46 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:27:03 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:27:15 --> ErrorException: Undefined array key "description"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 219.
+ 1 APPPATH/Views/quality/assy.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "description"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 219)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:27:27 --> ErrorException: Undefined array key "serial_gearbox"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 220.
+ 1 APPPATH/Views/quality/assy.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "serial_gearbox"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 220)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:27:54 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:28:14 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(31): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:39:53 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:41:32 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:42:29 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 214.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 3 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:42:56 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:45:40 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 220.
+ 1 APPPATH/Views/quality/assy.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 220)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:46:33 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 239.
+ 1 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 3 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:46:44 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:47:20 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 219.
+ 1 APPPATH/Views/quality/assy.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 219)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:48:24 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 218.
+ 1 APPPATH/Views/quality/assy.php(218): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 218)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:48:35 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:49:22 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:49:34 --> ErrorException: Undefined variable $asy
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $asy', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:50:34 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:50:42 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:54:17 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:55:30 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 08:59:14 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:02:38 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:03:12 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:06:43 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:07:08 --> ErrorException: Undefined variable $asy
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $asy', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:07:32 --> ErrorException: Undefined variable $assy
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assy', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:07:35 --> ErrorException: Undefined variable $assy
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $assy', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:07:58 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:08:46 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 217.
+ 1 APPPATH/Views/quality/assy.php(217): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 217)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:10:31 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 09:12:01 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 16:55:30 --> Error: Class "App\Models\Quality" not found
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->misc()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 16:55:45 --> Error: Class "App\Models\Quality" not found
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->misc()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 16:56:31 --> Error: Class "App\Controllers\miscModel" not found
+[Method: GET, Route: misc]
+in APPPATH/Controllers/start.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->misc()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 17:01:27 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-04 17:02:45 --> ErrorException: Undefined array key "type_kit"
+[Method: GET, Route: assy]
+in APPPATH/Views/quality/assy.php on line 216.
+ 1 APPPATH/Views/quality/assy.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "type_kit"', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php', 216)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/assy.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/assy', [], true)
+ 5 APPPATH/Controllers/start.php(30): view('quality/assy', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\start->assy()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\start))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

@@ -1,0 +1,101 @@
+CRITICAL - 2024-07-12 00:00:50 --> ErrorException: Undefined variable $preparation
+[Method: GET, Route: shipping]
+in APPPATH/Views/quality/shipping.php on line 299.
+ 1 APPPATH/Views/quality/shipping.php(299): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $preparation', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php', 299)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/shipping', [], true)
+ 5 APPPATH/Controllers/ShippingCont.php(14): view('quality/shipping', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ShippingCont->shipping()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ShippingCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 00:06:55 --> ErrorException: Undefined variable $locations
+[Method: GET, Route: shipping]
+in APPPATH/Views/quality/shipping.php on line 147.
+ 1 APPPATH/Views/quality/shipping.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $locations', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php', 147)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/shipping', [], true)
+ 5 APPPATH/Controllers/ShippingCont.php(14): view('quality/shipping', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ShippingCont->shipping()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ShippingCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 00:10:05 --> ErrorException: Undefined variable $locations
+[Method: GET, Route: shipping]
+in APPPATH/Views/quality/shipping.php on line 147.
+ 1 APPPATH/Views/quality/shipping.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $locations', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php', 147)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/shipping.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/shipping', [], true)
+ 5 APPPATH/Controllers/ShippingCont.php(14): view('quality/shipping', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ShippingCont->shipping()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ShippingCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-12 00:35:38 --> ErrorException: Undefined array key "qty_defect"
+[Method: POST, Route: addShipping]
+in APPPATH/Controllers/ShippingCont.php on line 29.
+ 1 APPPATH/Controllers/ShippingCont.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "qty_defect"', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/ShippingCont.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\ShippingCont->addShipping()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ShippingCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-07-12 15:25:19 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php(186): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'quality', 8080, '', 0)
+#1 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/qualitydb/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/qualitydb/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 /Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php(12): CodeIgniter\BaseModel->findAll()
+#7 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#8 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#9 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 /Applications/MAMP/htdocs/qualitydb/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /Applications/MAMP/htdocs/qualitydb/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/MAMP/htdocs/qualitydb/system/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /Applications/MAMP/htdocs/qualitydb/system/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#4 /Applications/MAMP/htdocs/qualitydb/system/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#5 /Applications/MAMP/htdocs/qualitydb/app/Controllers/MiscCont.php(12): CodeIgniter\BaseModel->findAll()
+#6 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+#7 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+#8 /Applications/MAMP/htdocs/qualitydb/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 /Applications/MAMP/htdocs/qualitydb/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /Applications/MAMP/htdocs/qualitydb/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-12 15:25:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: misc]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Database/BaseConnection.php(614): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1637): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `miscellaneous`
+ORDER BY `id` ASC', [], false)
+ 3 SYSTEMPATH/Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH/Controllers/MiscCont.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

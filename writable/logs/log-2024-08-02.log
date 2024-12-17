@@ -1,0 +1,493 @@
+INFO - 2024-08-02 04:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-02 04:09:36 --> ParseError: syntax error, unexpected variable "$this", expecting "function" or "const"
+[Method: GET, Route: home]
+in APPPATH/Controllers/BaseController.php on line 66.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/BaseController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\BaseController')
+ 3 APPPATH/Controllers/Home.php(4): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\BaseController')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/Applications/MAMP/htdocs/qualitydb/app/Controllers/Home.php')
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/Home.php')
+ 6 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 7 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 8 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 9 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 04:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-02 04:16:19 --> ParseError: Unclosed '{' on line 23
+[Method: GET, Route: login]
+in APPPATH/Controllers/BaseController.php on line 59.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/BaseController.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\BaseController')
+ 3 APPPATH/Controllers/loginCont.php(5): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\BaseController')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/Applications/MAMP/htdocs/qualitydb/app/Controllers/loginCont.php')
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/loginCont.php')
+ 6 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\loginCont')
+ 7 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\loginCont')
+ 8 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\loginCont', true)
+ 9 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+10 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 04:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-02 04:26:34 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-02 04:57:03 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-02 04:57:06 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-02 04:57:16 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-02 04:58:00 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 04:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-02 04:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-02 04:58:04 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-02 04:59:13 --> ErrorException: session_destroy(): Trying to destroy uninitialized session
+[Method: GET, Route: home]
+in APPPATH/Controllers/BaseController.php on line 59.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_destroy(): Trying to destroy uninitialized session', '/Applications/MAMP/htdocs/qualitydb/app/Controllers/BaseController.php', 59)
+ 2 APPPATH/Controllers/BaseController.php(59): session_destroy()
+ 3 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 4 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-02 05:00:20 --> ErrorException: ini_set(): Session ini settings cannot be changed when a session is active
+[Method: GET, Route: home]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Session ini settings cannot be changed when a session is active', '/Applications/MAMP/htdocs/qualitydb/system/Session/Handlers/FileHandler.php', 74)
+ 2 SYSTEMPATH/Session/Handlers/FileHandler.php(74): ini_set('session.save_path', '/Applications/MAMP/htdocs/qualitydb/writable/session')
+ 3 SYSTEMPATH/Config/Services.php(688): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\Session), '::1')
+ 4 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 5 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 6 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 7 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+ 8 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic('session', [])
+ 9 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get('session')
+10 SYSTEMPATH/Common.php(971): service('session')
+11 SYSTEMPATH/CodeIgniter.php(1062): session()
+12 SYSTEMPATH/CodeIgniter.php(542): CodeIgniter\CodeIgniter->storePreviousURL(Object(CodeIgniter\HTTP\SiteURI))
+13 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:04:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:04:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:04:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:04:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:05:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:06:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:06:07 --> ErrorException: Undefined variable $username
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $username', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:06:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:06:18 --> ErrorException: Undefined variable $username
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $username', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:06:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:06:28 --> ErrorException: Undefined variable $name
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:07:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:07:23 --> ErrorException: Undefined variable $name
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:07:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:07:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:07:30 --> ErrorException: Undefined variable $name
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:07:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:07:41 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:08:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:08:21 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:09:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:09:14 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 28.
+ 1 APPPATH/Views/quality/home.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 28)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:09:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:09:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:09:19 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 28.
+ 1 APPPATH/Views/quality/home.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 28)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:09:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:09:53 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:10:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:10:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:10:00 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:11:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:11:40 --> ErrorException: Undefined variable $user
+[Method: GET, Route: home]
+in APPPATH/Views/quality/home.php on line 27.
+ 1 APPPATH/Views/quality/home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', '/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php', 27)
+ 2 SYSTEMPATH/View/View.php(234): include('/Applications/MAMP/htdocs/qualitydb/app/Views/quality/home.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/home', [], true)
+ 5 APPPATH/Controllers/Home.php(8): view('quality/home')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:14:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:14:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:15:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:16:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:16:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:16:52 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:17:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:18:08 --> ParseError: syntax error, unexpected token "{"
+[Method: GET, Route: login]
+in APPPATH/Controllers/loginCont.php on line 21.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Applications/MAMP/htdocs/qualitydb/app/Controllers/loginCont.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\loginCont')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\loginCont')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\loginCont', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:18:12 --> BadMethodCallException: Call to undefined method App\Models\loginModel::getUserByUsernameAndPasswordAndName
+[Method: POST, Route: signIn]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/loginCont.php(28): CodeIgniter\Model->__call('getUserByUsernameAndPasswordAndName', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\loginCont->signIn()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\loginCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-08-02 05:18:25 --> BadMethodCallException: Call to undefined method App\Models\loginModel::getUserByUsernameAndPasswordAndName
+[Method: POST, Route: signIn]
+in SYSTEMPATH/Model.php on line 932.
+ 1 APPPATH/Controllers/loginCont.php(28): CodeIgniter\Model->__call('getUserByUsernameAndPasswordAndName', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\loginCont->signIn()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\loginCont))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-02 05:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:18:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:19:15 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:19:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:19:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-08-02 05:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-02 05:19:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
