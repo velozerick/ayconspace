@@ -1,0 +1,93 @@
+CRITICAL - 2024-12-19 15:02:29 --> CodeIgniter\Session\Exceptions\SessionException: Session: Configured save path "\var\www\html\Repos_aycon\ayconspace\writable\session" is not writable by the PHP process.
+[Method: GET, Route: /]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 103.
+ 1 SYSTEMPATH/Session/Handlers/FileHandler.php(103): CodeIgniter\Session\Exceptions\SessionException::forWriteProtectedSavePath()
+ 2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->open()
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(701): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session()
+ 7 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic()
+ 8 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance()
+ 9 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+10 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic()
+11 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get()
+12 SYSTEMPATH/Common.php(971): service()
+13 APPPATH/Views/quality/login.php(2): session()
+14 SYSTEMPATH/View/View.php(234): include('/var/www/html/Repos_aycon/ayconspace/app/Views/quality/login.php')
+15 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+16 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+17 APPPATH/Controllers/loginCont.php(9): view()
+18 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\loginCont->index()
+19 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+20 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+21 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+22 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+23 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+24 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/html/Repos_aycon/ayconspace/public/index.php')
+CRITICAL - 2024-12-19 15:12:26 --> CodeIgniter\Session\Exceptions\SessionException: Session: Configured save path "\var\www\html\Repos_aycon\ayconspace\writable\session" is not writable by the PHP process.
+[Method: GET, Route: /]
+in SYSTEMPATH/Session/Handlers/FileHandler.php on line 103.
+ 1 SYSTEMPATH/Session/Handlers/FileHandler.php(103): CodeIgniter\Session\Exceptions\SessionException::forWriteProtectedSavePath()
+ 2 [internal function]: CodeIgniter\Session\Handlers\FileHandler->open()
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(701): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(311): CodeIgniter\Config\Services::session()
+ 7 SYSTEMPATH/Config/BaseService.php(250): CodeIgniter\Config\BaseService::__callStatic()
+ 8 SYSTEMPATH/Config/Services.php(666): CodeIgniter\Config\BaseService::getSharedInstance()
+ 9 SYSTEMPATH/Config/BaseService.php(320): CodeIgniter\Config\Services::session()
+10 SYSTEMPATH/Config/BaseService.php(201): CodeIgniter\Config\BaseService::__callStatic()
+11 SYSTEMPATH/Common.php(998): CodeIgniter\Config\BaseService::get()
+12 SYSTEMPATH/Common.php(971): service()
+13 APPPATH/Views/quality/login.php(2): session()
+14 SYSTEMPATH/View/View.php(234): include('/var/www/html/Repos_aycon/ayconspace/app/Views/quality/login.php')
+15 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+16 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render()
+17 APPPATH/Controllers/loginCont.php(9): view()
+18 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\loginCont->index()
+19 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+20 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+21 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+22 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+23 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+24 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/html/Repos_aycon/ayconspace/public/index.php')
+INFO - 2024-12-19 15:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 15:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 16:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 16:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 16:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 16:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-12-19 16:14:18 --> [DEPRECATED] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/quality/databases/encabezado.php on line 81.
+ 1 APPPATH/Views/quality/databases/encabezado.php(81): htmlspecialchars(null)
+ 2 APPPATH/Views/quality/databases/misc.php(1): require('/var/www/html/Repos_aycon/ayconspace/app/Views/quality/databases/encabezado.php')
+ 3 SYSTEMPATH/View/View.php(234): include('/var/www/html/Repos_aycon/ayconspace/app/Views/quality/databases/misc.php')
+ 4 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('quality/databases/misc', [], true)
+ 6 APPPATH/Controllers/MiscCont.php(12): view('quality/databases/misc', [...])
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\MiscCont->misc()
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MiscCont))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/var/www/html/Repos_aycon/ayconspace/public/index.php')
+INFO - 2024-12-19 18:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 18:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 18:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 18:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 18:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-19 18:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
